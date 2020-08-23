@@ -1,6 +1,6 @@
-# Stacks Governance Ecosystem Calls
+# Stacks Ecosystem Calls
 
-![Stacks Governance Ecosystem Calls Poster](stacks_ecosystem_call_poster.jpg)
+![Stacks Ecosystem Calls Poster](stacks_ecosystem_call_poster.jpg)
 
 These ecosystem calls are a casual meeting with folks attending from across the growing Stacks Ecosystem and talking about what they are working on, what they might need help with, and of course - time for questions.
 
