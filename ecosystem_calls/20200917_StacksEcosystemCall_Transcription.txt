@@ -1,0 +1,86 @@
+20200917 Stacks Ecosystem Call Audio Transcription
+
+Ryan Arndt  0:00  
+Good to hear. There we go. Started that up a couple minutes. I know Xan isn't gonna be able to make it today and I guess do Walker. I don't know if you're coming in for money or just coming in as yourself. But, of course, welcome to be here.
+
+Diwaker Gupta  0:19  
+Happy to be here. Yeah, I think minima to jump on under calls I'm happy to provide any updates.
+
+Ryan Arndt  0:24  
+Okay, cool. Yeah, I was just talking with Xan (Xan was a over chat), and he's not gonna be able to make it today but one of the things I was chatting with him about was whether the weekly is too frequent for folks and whether it be better as bi weekly, because the intention for this call is to be something where the community members could join and update the work they're doing. And then everybody could just help each other kind of like a working space in the long run. But at this point, just since there's not as many projects in the community, but there will be in time as the grants program gets wrapped up, but recovered Sorry, it's going to kick into gear more, then there'll be more of that. going on. So he suggested even doing it like two weeks now with intention of having a being weekly later. So, yeah, fair enough. Anyway, any thoughts on that, because I don't want to know how these meetings be feel like they're heavy, or just like, I don't feel like attending cuz I don't have an update, you know, it can be hard.
+
+Unknown Speaker  1:16  
+So if anyone needs ideas sounds good, like every two weeks for now, and then move to weekly once things begin really heating up because we kind of just, we just kind of just, like, diffused into a bunch of different entities. And it's, you know, we're kind of just like getting spun up and like really hitting the ground running. So how would you have for every every two weeks and then with the idea that we move to weekly you know, once there's, like, a ton have updates going on at all times
+
+Ryan Arndt  1:49  
+Yeah. Okay, cool. Yeah, it was a it was Xan who suggested that but Mooney might feel similarily I'll ask him directly, because I know he was in a meeting right now. But yeah. It's good to see Larry's on here does the same thing I'm trying to figure out whether having one later in an Asia friendly timezone is as helpful as having earlier today because just people in Asia or on discord so much so. Yeah, so, Jenny, good to see you're back. All right in free gear you got your mic working that's great. All right, so I'm just going to put the basic agenda that I have each week so put where we have Muneeb I'm just gonna PBC Larry's not here so it could be pretty short here. But yeah, and the future if we do biweekly  . Is everybody here Do you prefer this time of year do you like the later time of day in North America? Patrick I
+
+Brittany  2:49  
+think that's works and I know on the last one that we had to delete our timezone. It was more folks from the west coast, because I think this is like 7am for them so slowly, but yeah, I think this works well.
+
+Ryan Arndt  3:02  
+Okay. Because I mean, if it's people on the west coast of North America, then this could be moved to the afternoon on the east coast to, to bring those people in more easily memorizer attached to a particular time, which No, I want people in Asia to be able to attend to, but if they're not attending the later call, either, oh,
+
+Brittany  3:18  
+yeah. People who are here, obviously, this works for them and then
+
+Ryan Arndt  3:21  
+that's true. That's true.
+
+Okay, cool. All right. So I'll hit enter on this area. All right, there we go. So there's the basic agenda. So we might as well get started. Diwaker, do you want to go first? What's going on with you and all the many, many things that engineering are working on right now?
+
+Diwaker Gupta  3:42  
+Sure. Well, Top of Mind is obviously test net phase three launch. So folks have been following along on the Stacks core devs channel on Discord. You're probably caught up already but I can give a quick summary so where we are is the bulk of the proof of Transfer functionality actually has been reviewed and merged into the next branch. So if you're looking at GitHub, some of those commits are not in Master, there'll be next. And so the way we've been doing Testnet upgrades is that we will take next merge it back into master and do the next deployment that way if we have to redeploy the test net, in the interim, for any reason, we kind of have a good handle on exactly what changes are making it into that deployment. And so we were not accidentally introducing regressions or new functionality. So if you look at the next branch, you'll be able to see a lot of that functionality in there. And the one missing piece right now is networking changes for proof of transfer. So again, a little bit of detail there. If you think about our peer to peer network, with proof of transfer, there is a significant amount of complexity and reworking that needs to happen because in addition to purely tracking just the burnchain and the stacks blockchain, now that all of that tracking has to be in the context of the proof of transfer state that you're aware of. So for example, two peers that already agree on an anchor block would download a different set of blocks than two peers that let's say disagree with each other on what their chosen anchor block is. So, so that PR is not out yet. But we're close. We're hoping that that PR will be out later today, maybe by tonight. So currently, the plan is that we're, as soon as that PR is out, we'll merge it or review it is as soon as we can, and try to get to merge ready state soon, and start preparing an internal deployment of Krypton early next week. And so hopefully, by Wednesday, we will have already had some testing with that internal deployment. And then that way we can push to a public deployment of Krypton by the end of next week. And so that's currently where we are. The current deployment of argon is fairly steady. We're we've been doing resets every week or so. And the the there is a lot of updates across the board so I'm happy to talk about non blockchain updates if folks are interested. I think the big news, or one of the big updates is that we have a ledger app that we were working with a third party vendor Zondax ( https://zondax.ch/ )on, and that app is functionally complete. We are doing a lot of testing internally. And we have also submitted the application to ledger for review. And once that review process is complete, that app will actually be available in ledger live. So that's actually a pretty big milestone for us and should offer, you know, a lot of our community members really good and solid, reliable, trusting way to access and confidently interact with their Stacks tokens upon mainnet launch. So those are just a couple of days. Like I will let other people go next and happy to take any questions.
+
+Ryan Arndt  7:05  
+Okay, sounds good. It's exciting stuff. Thank you for sharing that Diwaker. All right, so Well, next move to Brittany. So what's going on with the grants programs?
+
+Brittany  7:14  
+I got it. Yeah. The Foundation. The grants program is definitely probably the biggest thing I wanted to talk about here. And so last week, we had our first review committee of grants, we had eight grants submitted. We've since had four more that were reviewed in this week. So 12 in total, and then we actually just awarded our first approvals. So those approvals and now means that the person who proposed the grant has to just agree sign a contract, and then we'll fund those so they won't technically go into action until that final step is done. But that's in progress now. And so it's really exciting. You know, we had great involvement from the community, providing comments and feedback. On these proposals, they're all open for everyone to see on GitHub under our governance, GitHub, I really encourage you to check out you know which ones are in there, which ones are approved. I think it's pretty, pretty exciting. There's everything from rethinking how artists can use can use something like blockstack in order to sell their digital art online to a hardware device - I know Marvin has been on some of these calls - that allows you to use your blockstack ID almost like using a two factor. That's called Ryder. That's pretty cool. So I definitely just encourage you guys check it out. Friedger has a great submission on there with NF T's. So if you're interested in the NFT space, definitely check out his with open riff. Yeah, overall, we're really excited that, you know, the program kicked off and we've already been getting a number of applications. So just encourage you guys to you don't think about other members of the community or who aren't members of the community yet - who maybe could be able to, or who would be interested in submitting a grant or proposal. I'm happy to get them involved.
+
+Ryan Arndt  9:06  
+Sounds good. And there's even one there that Xan is put in a part of Daemont Technologies too. So it's pretty, pretty neat to see them coming from other entities in the ecosystem too. Cool. Is there any questions for Brittany and oh Friedger? One in the chat there, but then maybe so we want to answer chat instead? I don't know. But if your mic is working, feel free to pop on ask your question here to feel like
+
+Freidger Muffke  9:33  
+I'm fine for now. 
+
+Ryan Arndt  9:34  
+Good. Okay, perfect. All right. So then we will move over to Patrick. So first of all, Patrick, congratulations on the launch. And secondly, yeah, go for it. And what's your update since yesterday was huge. I mean, you got a lot of press . Pretty awesome.
+
+Patrick Stanley  9:50  
+Yeah.
+
+Ryan Arndt  9:52  
+Pr channel the wachsman channel there. 
+
+Patrick Stanley  9:53  
+Yeah. Can you hear me? Okay? Yeah. Great. Yeah. Thanks. Appreciate it. We had, I don't know how many twitter twitter fellows we got yesterday, but we got, I think something like three 300 plus a 350 Twitter followers in less than 24 hours, which was really great. We got 141 people sign up to become Freeholders. So we're just we're reaching out to falling out people in the order who received those submissions. And so we'll be doing brief phone calls with, with most of them. So they're going to get like a real, real, like good experience good onboarding. And just with the team who are kind of going through the CRM, the customer relationship management software, and doing email follow ups, and and making sure that you know, they're getting like very well designed emails that establish kind of like what the next steps are, and, and we're spending time just kind of like continuing the social The Twitter contest that we announced yesterday for you know, folks can win roughly $2,000 or whatever the price of stacks times Bitcoin is by the 23rd if they retweet the tweet and so that's been going really well and then kind of just kind of just like making sure that the initial tasks that folks are getting really map well to the types of interests that folks have who have applied so all in all going really well. You know, I'm hoping to hoping to get 1000 Twitter followers by the end of the month and ready to start ready to start getting people you know paid and hodling Bitcoin in stacks really excited.
+
+Ryan Arndt  11:42  
+Hey, awesome. Yeah, is definitely exciting to see how much activity there was yesterday. I'm sure it was very exciting for you too.
+
+Patrick Stanley  11:50  
+Yeah, for sure. It was awesome launch. I mean, like Forbes and coin does reporting. You know, I think the like the Forbes article that was I think there was like a little more detailed. Yeah, I just felt like I felt I felt good.
+
+Ryan Arndt  12:05  
+Awesome. That's the way to go when you're starting things out for sure. Okay, cool. Um, so that's everybody who is here on the call today for updates and Friedger if you want to give an update on open riff or anything else you're working on, too, you'd be more than welcome or Jenny too of course.
+
+Freidger Muffke  12:21  
+Yeah, so open riff is still adjust the proposal and and the grant program. And yeah, so currently, I'm exploring a bit more using the open the stacks blockchain API, and using speedspend to give everyone an opportunity to experience this and also to Yeah, I wrote an article so that other developers can better understand where they find which functions and yeah to make it more accessible for everyone.
+
+Ryan Arndt  13:05  
+Sounds good. Thanks for the update on that. And Jenny, is there anything you want to update about the Stacks community from your perspective or anything? I know the townhall is coming up, we're getting that planned for the week from this Monday coming up. So those ones will be, there's gonna be The Stacks Foundation and Blockstack PBC. We're doing it together. So when we do that event, it'll be more this time around Jenny and I discussed having more time for questions from people. And so I'm going to be getting those questions in advance as much as possible. And I'll match them up with people who are on this call, who will be able to answer them the kind of thing to do at events events as well Crowdcast is really great tool. So they're looking forward to getting that going for a week from Monday, so the 28th but yeah, that's where that's at. Jenny, do you want to add anything else from anywhere else here? I know you do a lot of things.
+
+Unknown Speaker  13:55  
+No, nothing to add. It's on the 28th and in the process. of planning the agenda now, but, and there's a lot of news to sort of recap. So that's exciting. But Ryan and I both wanted to spend more time on this town hall addressing questions and concerns from community members, as that is the purpose of the town hall. So just keep your eyes peeled for an invitation to that should be coming up soon.
+
+Ryan Arndt  14:23  
+And I'll be putting the request for community questions around too on Twitter, for instance. So if that's something that you feel like your entities want to retweet, that would be awesome. Just get more questions in from the community. Okay, with that, I guess that is everybody here. Anybody else want to ask anything of anyone now is the time.
+
+Okay, cool. Well, that's it for this week. And yeah, so I will look at the timeliness of doing it every two weeks for now. And maybe doing it every two weeks at this early time instead I'll check with Dan on how this time works for him and Larry too, because they're the ones who I originally had later on for. So see what they think of that and be able to go forward that with the plan to have it be weekly once we have more people in the community doing things, grants and all that. So, lots to come. But thank you again for joining. And yeah, appreciate it. Thanks so much.
+
+Patrick Stanley  15:24  
+Take care. See you
+
+Ryan Arndt  15:25  
+You too, see you
