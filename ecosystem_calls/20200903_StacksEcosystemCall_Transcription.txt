@@ -1,0 +1,213 @@
+20200903 Stacks Ecosystem Call Audio Transcription
+
+Ryan Arndt  0:00  
+Whoo, this is being recorded anyway, and it's gonna go up on GitHub. We'll just get started. And, yeah, we'll get some more people to this cause Well, there's definitely a less popular time it seems like except for busy people in Pacific Time Zone to attend. So yeah, I want to get some more folks on this specific calls. If you're anyone here has any ideas on that? That would be greatly appreciated. So Roseanne, if you want to go first, that would be great.
+
+Xan Ditkoff  0:30  
+Yeah, sure thing ran really don't have much of an update this week number of things on process, but we'll hopefully be able to actually mention them next week. Aside from that, it's spending my time this week on a lot of fun, administrative things like trying to get bank accounts. So yeah, that's it for me.
+
+Ryan Arndt  0:51  
+Okay, and maybe that's something I know. Brittany fetzima you can help with having another entity because I know some of you and I talked about before like how the entities can help each other Put that sort of information on getting set up. So maybe that's something that we had.
+
+Xan Ditkoff  1:06  
+No, don't need anything like that. It's Um, no, it's just the typical association with crypto fighting the system.
+
+Ryan Arndt  1:15  
+Gotcha, classic. Okay. Gotcha.
+
+Brittany Laughlin  1:19  
+All right. And then, yeah, I think I'm next yarn. So it's Brittany here, talking about the sacks foundation. And so one of the big things that's happened in the past week at the sacks foundation is we launch our grants program. So the grants are just open on a rolling basis, which allows any member of the community to submit their proposal. And the proposal will then get feedback from the committee, whether it's scoping it or whether it's approved, and then they can, they can sort of retain that grant. So we're starting out with just a beta program, which means that you can apply for grant up to $5,000 on us And I'm really excited because even within the first week, I think we have eight submissions for proposals. So even if you don't have a proposal in mind, you can definitely check out stacks.org slash grants, and see all of the proposals that have been submitted. If you have a GitHub account, you can comment on those and give feedback to members who have submitted as well. So pretty cool. We got some really cool ones in there, I think. You know, in the community, there's a number of people who are working on them. So if they joined this call, or if they joined just some of the other working groups, you'll probably see a lot more customer feedback coming soon.
+
+pasted a link? http://stacks.org/grants
+
+Ryan Arndt  2:47  
+Yeah, I just popped the link in the chat channel there. And again, if anyone else has other links to share there, please feel free to do so. I know when I'm processing the audio and when we doing transcription as well as Lisa will have text and I can include the links in the text transcription. So it's a handy little thing. If you do want to get to the stuff you're working on into the official transcripts. I can do that.
+
+So yeah.
+
+All right. So then Larry, I saw on your email, I saw a bit of an update about what you're working on already. But for those not on your email list, they probably should get on it for one, but also what's going on with you other than your terrible fall?
+
+Larry Salibra  3:28  
+Oh, thanks, Ryan. Um, yes, so I, so we shipped an update of stacks stacks app since we last talked and people can grab that if they have the iOS 14 beta, and include support for widgets, which are sort of new thing to let you put information on your home screen or other places on your iPhone on so you can put your favorite stacks, trading pairs, wherever you'd like on your phone. If you have iOS 14 beta. You can grab that at new internet labs slash us stacks out, sign up, send you a link to the test flights, beta count.
+
+And other news where we're sort of working on.
+
+like going back to our original focus, which was, which was naming original focus for blockstack. Um, that's sort of like the missing piece that we have in our browser work. So we've, we've sort of reimplemented the campy evil sandbox, instead of a native browser on sort of iterated on what we did with version one and the extension. Um, it's improved on that based on the feedback we got from app mining, and are now looking just to sort of integrate into block sec naming. So I had a call or speak with Mark, from black PVC, to going over sort of where we are naming. I'm going through a bunch of API docs right now. I'm going to send out some questions that people working on that to see to make sure that I'm that the work. We do. We'll serve seamlessly transition into stacks 2.0 and also chatting with Zahn a bit about us and potential partnership opportunities. So hopefully may have something for you in the future on that.
+
+Ryan Arndt  5:15  
+Okay, great. Yeah. Because if there's a like test everything like that, that for the community to do, that'd be great. No, pop. I don't I can put it on Twitter, things like that, too. So happy to help support you in what you're doing. Thanks, right. No problem and then Patrick escaped you, my apologies. So it is your turn. Sorry about that.
+
+Patrick Stanley  5:33  
+Yeah, no problem. My update is freeholders is looking very, very good. The brand I think reflects what I want people to feel when they you know, experience, three old and I'm looking for I had to push the launch, push launch for a few reasons. Once more, and this is not going to get in the habit of During us,
+
+we're kind of
+
+running really hard kind of
+
+people there. And you'll you'll see a lot of a lot of stuff going on on Twitter.
+
+And we would love everyone
+
+joining for you.
+
+Ryan Arndt  6:28  
+Patrick, you're cutting out a lot there. I'm not sure. At least for Pascal and Marvin and I we were all hearing Yeah. Like last thing I heard was at. We're pushing things back. And then it started going. Oh,
+
+Patrick Stanley  6:45  
+sorry. It must be my
+
+Ryan Arndt  6:51  
+Yeah, it must be your connection from the sounds of it. forest fire on the internet. Oh, boy. Patrick's on the East Coast right now. Patrick, I
+
+Brittany Laughlin  7:04  
+guess maybe you can add your update in the chat. Patrick just that last drop
+
+Patrick Stanley  7:10  
+back in a second.
+
+Ryan Arndt  7:12  
+Yeah, for sure. There we go. Hopefully that'll be better for him there. But Patrick, you can hear us Britney was just saying I can I can hear you. Oh, good now Your voice sounds better actually.
+
+Patrick Stanley  7:23  
+Hey cmon dog.
+
+Yeah, no, I'm I pushed I pushed it back. The the writer who agreed to write in Forbes about it got too busy wants to write it. I'm moving on and finding someone else to write about it. And so planning on a Tuesday, possibly Wednesday launch, but like everything's in place, and you're definitely not going to miss it. When it happens. There's a lot of activity on Twitter. I'm super excited. Like everything looks really nice and I feel like I'm I'm legitimately excited. So that's, that's my update. 
+
+Ryan Arndt  8:03  
+Okay, awesome. Is there a Twitter account that's up already or not yet?
+
+Patrick Stanley  8:09  
+Yes, but I kind of want to keep it hidden for from the time.
+
+Ryan Arndt  8:12  
+I get that. Okay, cool. All right. So but when that does happen, I everybody here, just make sure you keep an eye out for it. Be sure to be following along on your, your Twitter, Patrick. So I do see it. And I'll support that through the stacks. Foundation, Twitter, of course. Good. And yeah, so I guess that brings us to Marvin. So I invited Marvin to talk about writer and what he's working on with that. Yeah, so currently, he's got an application for a grant around writer. So I'm not going to speak to that because it's the process but yeah, somewhere if you want to talk about that and just put that process has been like for you, not the grant process so much, but just like developing writer and yeah, in doing development on block stacks, that'd be great. Sure,
+
+Marvin Janssen  8:58  
+I don't have a lot of news to add, but I'll try to give a quick overview. So I think most people will be familiar with the original article about like, security thing and taking keys out. And since then there's been lots of discussion and back and forth and like, you know, not related to the articles or so that's been very interesting. There's a lot of community responses as well. And yeah, we just submitted a proposal that we got some comments on, so we're gonna process that and probably respond to that tomorrow. So for those of you who have not seen the proposal, have been doing this with Luis together, and for this proposal, we figured out that the best place to incorporate would be Singapore sort of proposal is going to well did the grant would fund that that first milestone the incorporation we want to rebrand we want to do an initial batch of 10 units, and ramp up marketing for a crowdfunding campaign when it comes to the actual device itself. So what I've been working on lately is prepping an API because we do want to aim for developers first. Much like blockstack, I'd say. So I've just been figuring some of that stuff out so that once we send out those initial units to developers and other key figures in the community that they can start tinkering with it and given feedback. We're going to kind of take it from there. I think that's kind of it, unless there's specific questions.
+
+Ryan Arndt  10:34  
+Yeah, or if you had any questions for any other people on the call to like on the kind of work you're doing, that helps. Um,
+
+Marvin Janssen  10:45  
+I think mostly that we're focused on the grant proposal and going through that process. And yeah, I don't know if people are interested in hearing like how we went through that process and what I experienced anyone wants to know
+
+Ryan Arndt  11:00  
+Don't think it'd be bad to hear that, because I'm gonna put the transcription on GitHub and audio file as well. So something for people who are not in attendance as well to be able to look at. So it might be valuable. Yeah.
+
+Marvin Janssen  11:10  
+Sure, yeah. So we know like the sex Foundation was still kind of in the formative stages. But when this was initially announced, Monique introduced me to Brittany and like we had a few like, informal calls and kind of discuss, like, what it would look like and Brittany gave me a bit of information of, you know, what they would probably want to see. And that's why we could already prepared this proposal before the stacks grants repository was posted. So yeah, the actual process. We talked a few times and I think this might have had a bit of an effect on the actual proposal template. So I would say it went pretty well. And I think I like the idea that it's so open so that everyone can see kind of what's going on? And? Yeah, I don't know what much to say about it. It's been pretty, pretty nice so far. But let's see what happens.
+
+Ryan Arndt  12:12  
+Yeah, for sure.
+
+Brittany Laughlin  12:13  
+Yeah, I would love to hear, Marvin. Um, this is Brittany. So I know we've spoken. But um, you know, I think for your, you know, even before there was a grant program or proposal, and you did a lot of work to share with the community, what you were building and what you're working on, like a blog post and a bunch of video that went along with it. What was kind of the response to that? Was it what you expected? You know, did you have people who sort of reached down after that or what was the response?
+
+Marvin Janssen  12:43  
+Right, that's actually a great point. So let's backtrack to the initial concept, the first idea of it so the first person I talked to about the project or the concept there off was Louise, Ivan and I said, Hey, I have this idea. I want to build Have a wallet and have this kind of stuff. And this is what I run into. And he was excited, but also skeptical and that sort of thing that kept happening and where people can skeptical, I go, is this something that could be pulled off? Or like, what does this actually look like? So my idea was like, well, then I'll just have to convince people by building a thing first. So that's what I set out to do. And I really learned from a previous project called Simple coin, which was kind of like a social mining platform that it's all about bringing the community like in on it, if you can see it like that. So that's why I decided to write articles with updates, and then post it on my Twitter account and the telegram group and kind of see responses from there and use that as sort of like a pre market test to see if people would be interested in having a device like this because of course, like I think it's cool, and some people around me think it's cool, but you know, maybe that's that that's it, right? So yeah, I was Like I was overwhelmed by the community response, and I thought that was a lot of fun and also kind of shaped the direction that we're going because we got some really valuable feedback as well. Some some critical feedback as well, but constructive. And I also think that it would be or that was a really good way to test the waters and see if there is an option for grant as you know, the grant proposal, we listed a bunch of key figures that responded very positively to this. So we had muneeb and Patrick, and some VCs responded as well. And we even inspired a VC to write a little blog post about digital identities after like he said, like after he saw my medium article, he got inspired to write that. So of course, that was really encouraging and caused us to press on and go for this proposal.
+
+Ryan Arndt  15:02  
+That makes sense. I know when I saw that medium article at first it was like, for me it was like or nowhere. And so just like whoa bar is really got something to say about this. It was nice. It was nice to see. But I was I was surprised also that yeah,
+
+Marvin Janssen  15:16  
+it's, it's also a bit of a personal consideration. So if I can talk about myself for a minute. So I've been involved in the crypto space for many years in different crypto projects and whatnot, but always anonymously under some nickname or or only known to select number of people. And then at some point, one guy was like, yeah, you know, what's your track record? What can you show us? And it was kind of difficult because many projects I did either signed, you know, an NDA, or it's, it's proprietary code. It's on a private GitHub repository. So I was like, Okay, well, I should step forward and use my name for this. So yeah, when I posted an article, I created a brand new medium account under my name, this time. And I wrote that so yeah, a lot of people had that similar response like, well, this is kind of out of nowhere, which is kind of funny in a way. It also a shift in the way I approach these kinds of crypto ecosystems.
+
+Ryan Arndt  16:17  
+Gotcha. So was this the first open source project you've been working on?
+
+Marvin Janssen  16:22  
+I've contributed to few others or helped people contribute, but never under my name.
+
+Ryan Arndt  16:29  
+Gotcha. Okay. Yeah. It's it's neat to hearing about, like moving your real identity to work in an open source environment. So yeah, kind of a neat thing. I wonder if more people will do that just as a way to be more transparent cuz that's kind of like, what the ethos of the ecosystem is. So we'll see. Okay, well, is there any more questions or anything? Anybody want to ask anybody like that? I got my Cricket button at the ready if not
+
+Brittany Laughlin  16:59  
+well, Guess just my last plug? Yeah, for the grants. And so if you go to this stuks.org slash grants, and you click on issues, then you'll be able to read marvins full application there as well and includes a lot of detail about the product he's building and why it's so exciting for the ecosystem. So a plug for Marvin, in the Ryder project that's up on there 
+
+Marvin Janssen  17:21  
+Thank you. 
+
+Pascal Belloncle  17:32  
+Yeah, I've been stressed out. I've been following all the grants application. That's a very interesting process and actually wrote something for building a UI for swappr. But haven't pushed the submit button quite yet. Take it away for a few more rounds of feedback and before I put it in,
+
+Brittany Laughlin  17:55  
+that's great. Yeah, well, the community here is is great for that stuff too. And Whether it's using discord or the forum or you know, even if you just want to reach out in the grants channel and discord and share what you've got, like we're happy to, you know, help you along in the process. And if you get stuck on anything, just, you know, we want to make it easy and not intimidating. And that's why it's, it's pretty iterative. So if you want to update your proposal along the way, you can do that too. 
+
+Pascal Belloncle  18:23  
+Oh yeah sure, but it's also like, whether I want to commit enough time on it or not, at least within the time has to be right for me.
+
+Brittany Laughlin  18:35  
+Makes sense? So
+
+Ryan Arndt  18:37  
+sure, and I put just in the chat there that the child stacks grants, so
+
+Pascal Belloncle  18:41  
+are your questions around the stuff subscribe to the to the repo so I see all the different comments.
+
+Ryan Arndt  18:47  
+Oh, good. Okay. Great. I'm not surprised because you're everywhere
+
+Marvin Janssen  18:51  
+so that's a good idea. I'm gonna do that too.
+
+Pascal Belloncle  18:56  
+And even traffic to traffic barriers not it's not too Too bad compared to other repos?
+
+Unknown Speaker  19:02  
+Yeah, DAX ones are like we got the announcement one, the general channel, and then the grants channel. So they're just been started up in the past couple weeks around sort of news last week. So
+
+Pascal Belloncle  19:11  
+every morning, you get 100 emails from GitHub. Wow. Blog spec repo says, Oh, no, the grant is okay.
+
+Marvin Janssen  19:21  
+For now, for now.
+
+Yeah, I assume there's gonna be lots of outsiders that, you know, want to optimize for getting a grant. So you'll see lots of people posting very soon once they discover it, I'm sure.
+
+Ryan Arndt  19:35  
+Yeah, I think that will definitely come. He's just kind of like over the app mining where people started optimizing our way. But this is getting a different sort of review process. So then app mining and be later on, so different sort of thing.
+
+Okay, well, anyone else has any other questions, your last opportunity, but I will be back again, two weeks from now at the same time and also next week at 10am Eastern On Thursday. So if you're not on the west coast, it's not super early for you, Pascal and Marvin. And then you're welcome to join if you're up at that time, I
+
+Pascal Belloncle  20:09  
+don't think you will try it out.
+
+Ryan Arndt  20:14  
+That's okay. I wasn't big anyway. I know it's early. Right. So, but thank you everybody for coming. And I better make sure to tell craig did you go? 
+
+Marvin Janssen  20:24  
+ I have a general question if we have another minute horse 
+
+Ryan Arndt  20:28  
+Yes, of course. And when there's a whole hour booked, right, so there's just like, there's time here. Well, there you go. To move things around. Yeah, for sure.
+
+Marvin Janssen  20:35  
+So there's so many calls happening all the time, where it happens to me where I'm just out and about. And suddenly I got a message on this call to telegram and saying, like, Hey, you should have joined this call just now or there's a call happening, you should join. And maybe just leave it. I've been trying to find a calendar that just lists all the calls and I can just subscribe to so it's on my phone. Does that exist?
+
+Ryan Arndt  20:58  
+There's the community events calendar. But it's not like we're trying to get one with in discord as well. It's called DCal. So it's a bot. So we're working on using that too. But it's something that would be something Jenny and Mitchell, and Louise and myself talked about earlier this week about doing that very thing and having it like tags, so that you could be able to, like, if it was a developer's meeting, you'd be able to just sort by developers kind of thing like that. So we've been easier to find the meetings that you want.
+
+Marvin Janssen  21:26  
+Yeah, that would be helpful.
+
+Patrick Stanley  21:27  
+Yeah. Like, it's very much like, I'm pretty much like pinging Marvin and saying, Hey, I missed you on this call. I wanted to be on
+
+Marvin Janssen  21:35  
+and I'm like, Oh, damn, I didn't know what happened. Yeah.
+
+Ryan Arndt  21:39  
+Right, for sure. I can understand that. Because there's they're in different places. So we're gonna centralize decentralization in a way. So just make it I said,
+
+Marvin Janssen  21:48  
+Yeah, I have like a real information age brain, you know, if I don't put it in my calendar, then I'm gonna forget about it. So I just want to subscribe to something and alerts me and I know and I put them in batch. You leave but there's like, Russ organizes meetings and you do and a bunch of other people and it's like, Oh, damn, I missed another one that
+
+Patrick Stanley  22:07  
+we need to. We need to communicate with your digital tertiary self and not you.
+
+Marvin Janssen  22:12  
+Yeah, pretty much.
+
+Ryan Arndt  22:17  
+Okay, great. Yeah. So yeah, and if you have anything all from the past you might have and if that's alright, like once we get it set up, I'll share with you and see, like what you think if it's what you need, because then we can edit and iterate on that too, because, yeah, it's important that it's useful. Okay, great. So that's, I guess it for this week. But thank you again for coming.
